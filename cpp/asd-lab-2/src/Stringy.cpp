@@ -4,23 +4,26 @@
 
 
 Stringy::Stringy(char* s) {
-	symbols = s;
+	_symbols = s;
 }
 
 Stringy::~Stringy() {
-	symbols = nullptr;
-	delete[] symbols;
+	_symbols = nullptr;
+	delete[] _symbols;
 }
 
 int Stringy::getLength() {
-	return strlen(symbols);
+	return strlen(_symbols);
 }
 
 int Stringy::getDigits(){
 	int digitsNum = 0;
-	for(int i = 0; i < strlen(symbols); i++){
-		if(isdigit(symbols[i])) digitsNum++;
+	for(int i = 0; i < strlen(_symbols); i++){
+		if(isdigit(_symbols[i])) digitsNum++;
 	}
 	return digitsNum;
 }
 
+char* Stringy::getSymbols(){
+	return _symbols;
+}

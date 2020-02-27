@@ -4,46 +4,51 @@
 
 
 Texty::Texty(Stringy* s, int si) {
-	size = si;
-	strings = s;
-	for(int i = 0; i < size; i++){
-		length += strings[i].getLength();
-		digits += strings[i].getDigits();
+	_size = si;
+	_strings = s;
+	for(int i = 0; i < _size; i++){
+		_length += _strings[i].getLength();
+		_digits += _strings[i].getDigits();
 	}
 }
 
 Texty::~Texty() {
-	strings = nullptr;
-	delete[] strings;
-	size = 0;
+	_strings = nullptr;
+	delete[] _strings;
+	_size = 0;
 }
 
 char* Texty::getLongestString(){
 	int longest = 0;
-	for(int i = 0; i < size; i++){
-		if(strings[i].getLength() > strings[longest].getLength()) longest = i;
+	for(int i = 0; i < _size; i++){
+		if(_strings[i].getLength() > _strings[longest].getLength()) longest = i;
 	}
-	return strings[longest].symbols;
+	return _strings[longest].getSymbols();
 }
 
 bool Texty::deleteString(int index){
-	if(index > size - 1){
+	if(index > _size - 1){
 		return 0;
 	}else{
-		for(int i = index; i < size; i++){
-			strings[i] = strings[i + 1];
+		for(int i = index; i < _size; i++){
+			_strings[i] = _strings[i + 1];
 		}
-		size -= 1;
+		_size -= 1;
 		return 1;
 	}
 }
 
 int Texty::getLength(){
-	return length;
+	return _length;
+}
+int Texty::getSize(){
+	return _size;
 }
 double Texty::getDigitsPercentage(){
-	return digits * 100 / length;
+	return _digits * 100 / _length;
 }
-
+Stringy* Texty::getStrings(){
+	return _strings;
+}
 
 

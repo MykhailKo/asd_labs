@@ -2,12 +2,14 @@
 #define STRINGY_H_
 
 class Stringy {
+private:
+	char* _symbols = nullptr;
 public:
-	char* symbols = nullptr;
 	Stringy(char*);
 	virtual ~Stringy();
 	int getLength();
 	int getDigits();
+	char* getSymbols();
 };
 
 #endif /* STRINGY_H_ */

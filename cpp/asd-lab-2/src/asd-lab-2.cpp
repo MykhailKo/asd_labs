@@ -19,14 +19,14 @@ int main() {
 	char* l = text.getLongestString();
 	cout << l << endl << endl;
 
-	for(int i = 0; i < text.size; i++){
-		cout << text.strings[i].symbols << endl;
+	for(int i = 0; i < text.getSize(); i++){
+		cout << text.getStrings()[i].getSymbols() << endl;
 	}
 	cout << endl;
 
 	text.deleteString(2);
-	for(int i = 0; i < text.size; i++){
-		cout << text.strings[i].symbols << endl;
+	for(int i = 0; i < text.getSize(); i++){
+		cout << text.getStrings()[i].getSymbols() << endl;
 	}
 
 	cout << text.getLength() << endl;

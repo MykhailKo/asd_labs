@@ -4,16 +4,19 @@
 #include "Stringy.h"
 
 class Texty {
+private:
+	Stringy* _strings = nullptr;
+	int _size = 0;
+	int _digits = 0;
+	int _length = 0;
 public:
-	Stringy* strings = nullptr;
-	int size = 0;
-	int digits = 0;
-	int length = 0;
 	Texty(Stringy*, int);
 	virtual ~Texty();
 	bool deleteString(int);
 	char* getLongestString();
 	int getLength();
+	int getSize();
+	Stringy* getStrings();
 	double getDigitsPercentage();
 };
 
