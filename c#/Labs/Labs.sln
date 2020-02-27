@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A382BD19-62BC-4612-9E95-58713F6DCB3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAbstractionLab2", "TextAbstractionLab2\TextAbstractionLab2.csproj", "{7F65DD35-D4E5-4857-85EE-A1AEAF000116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{8E8AB92A-CBF8-4EAE-BC97-7D41162FC241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{A382BD19-62BC-4612-9E95-58713F6DCB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A382BD19-62BC-4612-9E95-58713F6DCB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A382BD19-62BC-4612-9E95-58713F6DCB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F65DD35-D4E5-4857-85EE-A1AEAF000116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F65DD35-D4E5-4857-85EE-A1AEAF000116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F65DD35-D4E5-4857-85EE-A1AEAF000116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F65DD35-D4E5-4857-85EE-A1AEAF000116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8AB92A-CBF8-4EAE-BC97-7D41162FC241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8AB92A-CBF8-4EAE-BC97-7D41162FC241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8AB92A-CBF8-4EAE-BC97-7D41162FC241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8AB92A-CBF8-4EAE-BC97-7D41162FC241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

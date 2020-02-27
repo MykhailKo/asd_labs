@@ -31,7 +31,8 @@ namespace ConsoleApp1
             int size = Marshal.SizeOf(a)*8;
             for(int shift = 0; shift < (size - 1); shift++){
                 a ^= 1 << shift;
-                if(!Convert.ToBoolean(!Convert.ToBoolean((a >> shift) & 1) ^ Convert.ToBoolean(0))) break;
+                int temp_res = ((a >> shift) & 1) ^ 0;
+                if(temp_res != 0) break;
             }
             return a;
         }
@@ -41,7 +42,8 @@ namespace ConsoleApp1
             int size = Marshal.SizeOf(a)*8;
             for(int shift = 0; shift < (size - 1); shift++){
                 a ^= 1 << shift;
-                if(!Convert.ToBoolean(!Convert.ToBoolean((a >> shift) & 1) ^ Convert.ToBoolean(0))) break;
+                int temp_res = ((a >> shift) & 1) ^ 0;
+                if(temp_res != 0) break;
             }
             res = a;
         }

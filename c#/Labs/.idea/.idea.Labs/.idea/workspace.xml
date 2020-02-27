@@ -9,11 +9,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lab2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TextAbstractionLab2/Class1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
+        <option value="$PROJECT_DIR$/TextAbstractionLab2/Class1.cs" />
+        <option value="$PROJECT_DIR$/Lab2/Program.cs" />
       </list>
     </option>
   </component>
@@ -27,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Lab2">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -46,6 +50,29 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Lab2/bin/Debug/netcoreapp3.1/Lab2.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab2/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lab2/Lab2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Lab2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -73,7 +100,10 @@
       <workItem from="1581363662527" duration="696000" />
       <workItem from="1581411317302" duration="5000" />
       <workItem from="1581411659445" duration="442000" />
-      <workItem from="1582179364656" duration="721000" />
+      <workItem from="1582179364656" duration="1316000" />
+      <workItem from="1582187453540" duration="1801000" />
+      <workItem from="1582452980158" duration="4189000" />
+      <workItem from="1582793867780" duration="6282000" />
     </task>
     <servers />
   </component>
@@ -83,22 +113,22 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582179534533">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom" timestamp="1582803910288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582179534533" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582179534533">
+    <state width="1323" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582803910288" />
+    <state width="1323" height="142" key="GridCell.Tab.0.center" timestamp="1582803910288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582179534533" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582179534533">
+    <state width="1323" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582803910288" />
+    <state width="1323" height="142" key="GridCell.Tab.0.left" timestamp="1582803910288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582179534533" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582179534533">
+    <state width="1323" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582803910288" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right" timestamp="1582803910288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582179534533" />
+    <state width="1323" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582803910288" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1581348514598">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -163,10 +193,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.4.right/0.0.1366.728@0.0.1366.728" timestamp="1581348514601" />
-    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size" timestamp="1581342910591">
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size" timestamp="1582453337065">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1581342910591" />
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1582453337065" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1581346296726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
