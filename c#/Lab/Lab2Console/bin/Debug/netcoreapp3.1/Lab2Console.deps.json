@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab2Console/1.0.0": {
+        "dependencies": {
+          "StringyLab2": "1.0.0",
+          "TextyLab2": "1.0.0"
+        },
+        "runtime": {
+          "Lab2Console.dll": {}
+        }
+      },
+      "StringyLab2/1.0.0": {
+        "runtime": {
+          "StringyLab2.dll": {}
+        }
+      },
+      "TextyLab2/1.0.0": {
+        "dependencies": {
+          "StringyLab2": "1.0.0"
+        },
+        "runtime": {
+          "TextyLab2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringyLab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextyLab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\bin\Debug\netcoreapp3.1\TextyLab2.deps.json
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\bin\Debug\netcoreapp3.1\TextyLab2.dll
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\bin\Debug\netcoreapp3.1\TextyLab2.pdb
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\bin\Debug\netcoreapp3.1\StringyLab2.dll
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\bin\Debug\netcoreapp3.1\StringyLab2.pdb
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\obj\Debug\netcoreapp3.1\TextyLab2.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\obj\Debug\netcoreapp3.1\TextyLab2.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\obj\Debug\netcoreapp3.1\TextyLab2.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\obj\Debug\netcoreapp3.1\TextyLab2.csproj.CopyComplete
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\obj\Debug\netcoreapp3.1\TextyLab2.dll
+C:\Users\Михаил\RiderProjects\Lab\TextyLab2\obj\Debug\netcoreapp3.1\TextyLab2.pdb
