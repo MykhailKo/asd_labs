@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyArrayLab3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyArrayLab3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyArrayLab3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyArrayLab3/1.0.0": {
+      "type": "project",
+      "path": "../MyArrayLab3/MyArrayLab3.csproj",
+      "msbuildProject": "../MyArrayLab3/MyArrayLab3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MyArrayLab3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Михаил\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Михаил\\RiderProjects\\Lab\\Lab3Console\\Lab3Console.csproj",
+      "projectName": "Lab3Console",
+      "projectPath": "C:\\Users\\Михаил\\RiderProjects\\Lab\\Lab3Console\\Lab3Console.csproj",
+      "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Михаил\\RiderProjects\\Lab\\Lab3Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Михаил\\RiderProjects\\Lab\\MyArrayLab3\\MyArrayLab3.csproj": {
+              "projectPath": "C:\\Users\\Михаил\\RiderProjects\\Lab\\MyArrayLab3\\MyArrayLab3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

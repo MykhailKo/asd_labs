@@ -1,0 +1,8 @@
+C:\Users\Михаил\RiderProjects\Lab\MyArrayLab3\obj\Debug\netcoreapp3.1\MyArrayLab3.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Lab\MyArrayLab3\obj\Debug\netcoreapp3.1\MyArrayLab3.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Lab\MyArrayLab3\obj\Debug\netcoreapp3.1\MyArrayLab3.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Lab\MyArrayLab3\bin\Debug\netcoreapp3.1\MyArrayLab3.deps.json
+C:\Users\Михаил\RiderProjects\Lab\MyArrayLab3\bin\Debug\netcoreapp3.1\MyArrayLab3.dll
+C:\Users\Михаил\RiderProjects\Lab\MyArrayLab3\bin\Debug\netcoreapp3.1\MyArrayLab3.pdb
+C:\Users\Михаил\RiderProjects\Lab\MyArrayLab3\obj\Debug\netcoreapp3.1\MyArrayLab3.dll
+C:\Users\Михаил\RiderProjects\Lab\MyArrayLab3\obj\Debug\netcoreapp3.1\MyArrayLab3.pdb
