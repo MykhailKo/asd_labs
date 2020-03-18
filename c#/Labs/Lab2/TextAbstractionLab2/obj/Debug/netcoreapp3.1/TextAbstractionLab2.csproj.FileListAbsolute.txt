@@ -1,8 +1,0 @@
-C:\Users\user\RiderProjects\Labs\TextAbstractionLab2\bin\Debug\netcoreapp3.1\TextAbstractionLab2.deps.json
-C:\Users\user\RiderProjects\Labs\TextAbstractionLab2\bin\Debug\netcoreapp3.1\TextAbstractionLab2.dll
-C:\Users\user\RiderProjects\Labs\TextAbstractionLab2\bin\Debug\netcoreapp3.1\TextAbstractionLab2.pdb
-C:\Users\user\RiderProjects\Labs\TextAbstractionLab2\obj\Debug\netcoreapp3.1\TextAbstractionLab2.csprojAssemblyReference.cache
-C:\Users\user\RiderProjects\Labs\TextAbstractionLab2\obj\Debug\netcoreapp3.1\TextAbstractionLab2.AssemblyInfoInputs.cache
-C:\Users\user\RiderProjects\Labs\TextAbstractionLab2\obj\Debug\netcoreapp3.1\TextAbstractionLab2.AssemblyInfo.cs
-C:\Users\user\RiderProjects\Labs\TextAbstractionLab2\obj\Debug\netcoreapp3.1\TextAbstractionLab2.dll
-C:\Users\user\RiderProjects\Labs\TextAbstractionLab2\obj\Debug\netcoreapp3.1\TextAbstractionLab2.pdb

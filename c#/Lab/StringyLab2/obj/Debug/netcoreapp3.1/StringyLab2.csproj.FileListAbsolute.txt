@@ -1,0 +1,8 @@
+C:\Users\Михаил\RiderProjects\Lab\StringyLab2\bin\Debug\netcoreapp3.1\StringyLab2.deps.json
+C:\Users\Михаил\RiderProjects\Lab\StringyLab2\bin\Debug\netcoreapp3.1\StringyLab2.dll
+C:\Users\Михаил\RiderProjects\Lab\StringyLab2\bin\Debug\netcoreapp3.1\StringyLab2.pdb
+C:\Users\Михаил\RiderProjects\Lab\StringyLab2\obj\Debug\netcoreapp3.1\StringyLab2.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Lab\StringyLab2\obj\Debug\netcoreapp3.1\StringyLab2.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Lab\StringyLab2\obj\Debug\netcoreapp3.1\StringyLab2.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Lab\StringyLab2\obj\Debug\netcoreapp3.1\StringyLab2.dll
+C:\Users\Михаил\RiderProjects\Lab\StringyLab2\obj\Debug\netcoreapp3.1\StringyLab2.pdb
