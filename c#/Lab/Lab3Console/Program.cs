@@ -13,6 +13,8 @@ namespace Lab3Console
             array[2] = new[] {34, 76};
             
             MyArray ma = new MyArray(array);
+            ma.AddRow(new [] {1, 4, 5, 6});
+            ma.DeleteRow(1);
             
             Console.WriteLine(ma.Sum);
             Console.WriteLine(ma[1]);
