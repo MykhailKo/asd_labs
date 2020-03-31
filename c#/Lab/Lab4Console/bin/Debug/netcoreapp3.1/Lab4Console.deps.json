@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab4Console/1.0.0": {
+        "dependencies": {
+          "MyStringLab4": "1.0.0"
+        },
+        "runtime": {
+          "Lab4Console.dll": {}
+        }
+      },
+      "MyStringLab4/1.0.0": {
+        "runtime": {
+          "MyStringLab4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyStringLab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
