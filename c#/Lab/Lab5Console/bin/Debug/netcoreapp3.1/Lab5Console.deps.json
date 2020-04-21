@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab5Console/1.0.0": {
+        "dependencies": {
+          "FiguresLab5": "1.0.0",
+          "StringsLab5": "1.0.0"
+        },
+        "runtime": {
+          "Lab5Console.dll": {}
+        }
+      },
+      "FiguresLab5/1.0.0": {
+        "runtime": {
+          "FiguresLab5.dll": {}
+        }
+      },
+      "StringsLab5/1.0.0": {
+        "runtime": {
+          "StringsLab5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FiguresLab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringsLab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

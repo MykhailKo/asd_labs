@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\FiguresLab5\FiguresLab5.csproj" />
+      <ProjectReference Include="..\StringsLab5\StringsLab5.csproj" />
+    </ItemGroup>
+
+</Project>

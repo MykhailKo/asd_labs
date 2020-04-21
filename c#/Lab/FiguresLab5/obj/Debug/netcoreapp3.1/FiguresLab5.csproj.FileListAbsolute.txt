@@ -1,0 +1,8 @@
+C:\Users\Михаил\RiderProjects\Lab\FiguresLab5\bin\Debug\netcoreapp3.1\FiguresLab5.deps.json
+C:\Users\Михаил\RiderProjects\Lab\FiguresLab5\bin\Debug\netcoreapp3.1\FiguresLab5.dll
+C:\Users\Михаил\RiderProjects\Lab\FiguresLab5\bin\Debug\netcoreapp3.1\FiguresLab5.pdb
+C:\Users\Михаил\RiderProjects\Lab\FiguresLab5\obj\Debug\netcoreapp3.1\FiguresLab5.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Lab\FiguresLab5\obj\Debug\netcoreapp3.1\FiguresLab5.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Lab\FiguresLab5\obj\Debug\netcoreapp3.1\FiguresLab5.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Lab\FiguresLab5\obj\Debug\netcoreapp3.1\FiguresLab5.dll
+C:\Users\Михаил\RiderProjects\Lab\FiguresLab5\obj\Debug\netcoreapp3.1\FiguresLab5.pdb

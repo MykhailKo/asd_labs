@@ -1,0 +1,16 @@
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\Lab5Console.exe
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\Lab5Console.deps.json
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\Lab5Console.runtimeconfig.json
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\Lab5Console.runtimeconfig.dev.json
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\Lab5Console.dll
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\Lab5Console.pdb
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\StringsLab5.dll
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\StringsLab5.pdb
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\obj\Debug\netcoreapp3.1\Lab5Console.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\obj\Debug\netcoreapp3.1\Lab5Console.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\obj\Debug\netcoreapp3.1\Lab5Console.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\obj\Debug\netcoreapp3.1\Lab5Console.csproj.CopyComplete
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\obj\Debug\netcoreapp3.1\Lab5Console.dll
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\obj\Debug\netcoreapp3.1\Lab5Console.pdb
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\FiguresLab5.dll
+C:\Users\Михаил\RiderProjects\Lab\Lab5Console\bin\Debug\netcoreapp3.1\FiguresLab5.pdb

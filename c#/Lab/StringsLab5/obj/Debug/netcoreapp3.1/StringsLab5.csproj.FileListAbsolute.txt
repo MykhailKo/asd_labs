@@ -1,0 +1,8 @@
+C:\Users\Михаил\RiderProjects\Lab\StringsLab5\bin\Debug\netcoreapp3.1\StringsLab5.deps.json
+C:\Users\Михаил\RiderProjects\Lab\StringsLab5\bin\Debug\netcoreapp3.1\StringsLab5.dll
+C:\Users\Михаил\RiderProjects\Lab\StringsLab5\bin\Debug\netcoreapp3.1\StringsLab5.pdb
+C:\Users\Михаил\RiderProjects\Lab\StringsLab5\obj\Debug\netcoreapp3.1\StringsLab5.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Lab\StringsLab5\obj\Debug\netcoreapp3.1\StringsLab5.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Lab\StringsLab5\obj\Debug\netcoreapp3.1\StringsLab5.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Lab\StringsLab5\obj\Debug\netcoreapp3.1\StringsLab5.dll
+C:\Users\Михаил\RiderProjects\Lab\StringsLab5\obj\Debug\netcoreapp3.1\StringsLab5.pdb

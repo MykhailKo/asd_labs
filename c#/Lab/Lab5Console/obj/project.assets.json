@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FiguresLab5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/FiguresLab5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FiguresLab5.dll": {}
+        }
+      },
+      "StringsLab5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/StringsLab5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StringsLab5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FiguresLab5/1.0.0": {
+      "type": "project",
+      "path": "../FiguresLab5/FiguresLab5.csproj",
+      "msbuildProject": "../FiguresLab5/FiguresLab5.csproj"
+    },
+    "StringsLab5/1.0.0": {
+      "type": "project",
+      "path": "../StringsLab5/StringsLab5.csproj",
+      "msbuildProject": "../StringsLab5/StringsLab5.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "FiguresLab5 >= 1.0.0",
+      "StringsLab5 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Михаил\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Михаил\\RiderProjects\\Lab\\Lab5Console\\Lab5Console.csproj",
+      "projectName": "Lab5Console",
+      "projectPath": "C:\\Users\\Михаил\\RiderProjects\\Lab\\Lab5Console\\Lab5Console.csproj",
+      "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Михаил\\RiderProjects\\Lab\\Lab5Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Михаил\\RiderProjects\\Lab\\FiguresLab5\\FiguresLab5.csproj": {
+              "projectPath": "C:\\Users\\Михаил\\RiderProjects\\Lab\\FiguresLab5\\FiguresLab5.csproj"
+            },
+            "C:\\Users\\Михаил\\RiderProjects\\Lab\\StringsLab5\\StringsLab5.csproj": {
+              "projectPath": "C:\\Users\\Михаил\\RiderProjects\\Lab\\StringsLab5\\StringsLab5.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
