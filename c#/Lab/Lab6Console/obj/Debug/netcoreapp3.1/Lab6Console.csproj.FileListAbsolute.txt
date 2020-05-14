@@ -1,0 +1,14 @@
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\bin\Debug\netcoreapp3.1\Lab6Console.exe
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\bin\Debug\netcoreapp3.1\Lab6Console.deps.json
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\bin\Debug\netcoreapp3.1\Lab6Console.runtimeconfig.json
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\bin\Debug\netcoreapp3.1\Lab6Console.runtimeconfig.dev.json
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\bin\Debug\netcoreapp3.1\Lab6Console.dll
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\bin\Debug\netcoreapp3.1\Lab6Console.pdb
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\bin\Debug\netcoreapp3.1\MyCalcLab6.dll
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\bin\Debug\netcoreapp3.1\MyCalcLab6.pdb
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\obj\Debug\netcoreapp3.1\Lab6Console.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\obj\Debug\netcoreapp3.1\Lab6Console.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\obj\Debug\netcoreapp3.1\Lab6Console.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\obj\Debug\netcoreapp3.1\Lab6Console.csproj.CopyComplete
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\obj\Debug\netcoreapp3.1\Lab6Console.dll
+C:\Users\Михаил\RiderProjects\Lab\Lab6Console\obj\Debug\netcoreapp3.1\Lab6Console.pdb

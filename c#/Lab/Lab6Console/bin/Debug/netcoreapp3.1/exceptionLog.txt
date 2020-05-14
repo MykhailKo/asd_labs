@@ -1,0 +1,5 @@
+System.DivideByZeroException: Argument d cannot be 0 to avoid division by 0!
+   at MyCalcLab6.MyCalc.set_ArgD(Double value) in C:\Users\Михаил\RiderProjects\Lab\MyCalcLab6\Class1.cs:line 37
+   at MyCalcLab6.MyCalc..ctor(Double a, Double c, Double d) in C:\Users\Михаил\RiderProjects\Lab\MyCalcLab6\Class1.cs:line 47
+   at Lab6Console.Program.Main(String[] args) in C:\Users\Михаил\RiderProjects\Lab\Lab6Console\Program.cs:line 17
+----------------------

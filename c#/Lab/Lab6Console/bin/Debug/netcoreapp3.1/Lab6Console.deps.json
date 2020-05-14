@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab6Console/1.0.0": {
+        "dependencies": {
+          "MyCalcLab6": "1.0.0"
+        },
+        "runtime": {
+          "Lab6Console.dll": {}
+        }
+      },
+      "MyCalcLab6/1.0.0": {
+        "runtime": {
+          "MyCalcLab6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab6Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCalcLab6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
