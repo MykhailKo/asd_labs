@@ -1,0 +1,8 @@
+C:\Users\Михаил\RiderProjects\Lab\MyListLab7\bin\Debug\netcoreapp3.1\MyListLab7.deps.json
+C:\Users\Михаил\RiderProjects\Lab\MyListLab7\bin\Debug\netcoreapp3.1\MyListLab7.dll
+C:\Users\Михаил\RiderProjects\Lab\MyListLab7\bin\Debug\netcoreapp3.1\MyListLab7.pdb
+C:\Users\Михаил\RiderProjects\Lab\MyListLab7\obj\Debug\netcoreapp3.1\MyListLab7.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\Lab\MyListLab7\obj\Debug\netcoreapp3.1\MyListLab7.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\Lab\MyListLab7\obj\Debug\netcoreapp3.1\MyListLab7.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\Lab\MyListLab7\obj\Debug\netcoreapp3.1\MyListLab7.dll
+C:\Users\Михаил\RiderProjects\Lab\MyListLab7\obj\Debug\netcoreapp3.1\MyListLab7.pdb

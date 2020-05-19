@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab7Console/1.0.0": {
+        "dependencies": {
+          "MyListLab7": "1.0.0"
+        },
+        "runtime": {
+          "Lab7Console.dll": {}
+        }
+      },
+      "MyListLab7/1.0.0": {
+        "runtime": {
+          "MyListLab7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab7Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyListLab7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
