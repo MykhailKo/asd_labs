@@ -1,0 +1,14 @@
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\bin\Debug\netcoreapp3.1\ConsoleStorage.exe
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\bin\Debug\netcoreapp3.1\ConsoleStorage.deps.json
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\bin\Debug\netcoreapp3.1\ConsoleStorage.runtimeconfig.json
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\bin\Debug\netcoreapp3.1\ConsoleStorage.runtimeconfig.dev.json
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\bin\Debug\netcoreapp3.1\ConsoleStorage.dll
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\bin\Debug\netcoreapp3.1\ConsoleStorage.pdb
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\bin\Debug\netcoreapp3.1\BusinessStorage.dll
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\bin\Debug\netcoreapp3.1\BusinessStorage.pdb
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\obj\Debug\netcoreapp3.1\ConsoleStorage.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\obj\Debug\netcoreapp3.1\ConsoleStorage.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\obj\Debug\netcoreapp3.1\ConsoleStorage.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\obj\Debug\netcoreapp3.1\ConsoleStorage.csproj.CopyComplete
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\obj\Debug\netcoreapp3.1\ConsoleStorage.dll
+C:\Users\Михаил\RiderProjects\StorageCourseWork\ConsoleStorage\obj\Debug\netcoreapp3.1\ConsoleStorage.pdb

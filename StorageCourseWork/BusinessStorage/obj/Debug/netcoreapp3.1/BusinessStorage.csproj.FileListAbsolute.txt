@@ -1,0 +1,8 @@
+C:\Users\Михаил\RiderProjects\StorageCourseWork\BusinessStorage\obj\Debug\netcoreapp3.1\BusinessStorage.csprojAssemblyReference.cache
+C:\Users\Михаил\RiderProjects\StorageCourseWork\BusinessStorage\obj\Debug\netcoreapp3.1\BusinessStorage.AssemblyInfoInputs.cache
+C:\Users\Михаил\RiderProjects\StorageCourseWork\BusinessStorage\obj\Debug\netcoreapp3.1\BusinessStorage.AssemblyInfo.cs
+C:\Users\Михаил\RiderProjects\StorageCourseWork\BusinessStorage\bin\Debug\netcoreapp3.1\BusinessStorage.deps.json
+C:\Users\Михаил\RiderProjects\StorageCourseWork\BusinessStorage\bin\Debug\netcoreapp3.1\BusinessStorage.dll
+C:\Users\Михаил\RiderProjects\StorageCourseWork\BusinessStorage\bin\Debug\netcoreapp3.1\BusinessStorage.pdb
+C:\Users\Михаил\RiderProjects\StorageCourseWork\BusinessStorage\obj\Debug\netcoreapp3.1\BusinessStorage.dll
+C:\Users\Михаил\RiderProjects\StorageCourseWork\BusinessStorage\obj\Debug\netcoreapp3.1\BusinessStorage.pdb

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Михаил\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Михаил\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_StorageCourseWork.610269541.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Михаил\RiderProjects\StorageCourseWork" t="IncludeFlat">
+      <e p="BusinessStorage" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BusinessStorage.csproj" t="IncludeRecursive" />
+        <e p="Clothes.cs" t="Include" />
+        <e p="EventArgs.cs" t="Include" />
+        <e p="Furniture.cs" t="Include" />
+        <e p="Good.cs" t="Include" />
+        <e p="Grocery.cs" t="Include" />
+        <e p="IPrepare.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BusinessStorage.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Order.cs" t="Include" />
+        <e p="OrderPosition.cs" t="Include" />
+        <e p="Stack.cs" t="Include" />
+        <e p="Storage.cs" t="Include" />
+      </e>
+      <e p="ConsoleStorage" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleStorage.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ConsoleStorage.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="StorageCourseWork.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

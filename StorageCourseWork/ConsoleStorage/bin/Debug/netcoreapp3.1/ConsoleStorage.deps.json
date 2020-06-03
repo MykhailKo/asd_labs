@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleStorage/1.0.0": {
+        "dependencies": {
+          "BusinessStorage": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleStorage.dll": {}
+        }
+      },
+      "BusinessStorage/1.0.0": {
+        "runtime": {
+          "BusinessStorage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleStorage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessStorage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
